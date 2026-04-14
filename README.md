@@ -12,8 +12,8 @@
 - 🌱 Currently building a strong foundation in **Full Stack Development (MERN Stack)**
 - 👯 Interested in collaborating on **real-world web development projects**
 - 🤝 Actively seeking opportunities to **learn, grow, and contribute in the tech industry**
-- 💬 Comfortable working with **HTML, CSS, JavaScript, and modern web technologies**
-- 📫 Reach me at: **your-email@gmail.com**
+- 💬 Comfortable working with **HTML, CSS, JavaScript, React MongoDB and modern web technologies**
+- 📫 Reach me at: **shrishtiverma107@gmail.com**
 - ⚡ Enthusiastic about **continuous learning and exploring new technologies**
 
 ---
