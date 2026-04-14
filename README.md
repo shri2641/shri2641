@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shrishti Verma</h1>
+<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
 
-<!--
-**shri2641/shri2641** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>MERN Stack | JavaScript | Web Development</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🌱 Currently building a strong foundation in **Full Stack Development (MERN Stack)**
+- 👯 Interested in collaborating on **real-world web development projects**
+- 🤝 Actively seeking opportunities to **learn, grow, and contribute in the tech industry**
+- 💬 Comfortable working with **HTML, CSS, JavaScript, and modern web technologies**
+- 📫 Reach me at: **your-email@gmail.com**
+- ⚡ Enthusiastic about **continuous learning and exploring new technologies**
+
+---
+
+## 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/shrishti-verma-72171927a/">LinkedIn</a> |
+  <a href="https://leetcode.com/u/Shrishti_007/">LeetCode</a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shri2641&show_icons=true&theme=tokyonight" />
+</p>
